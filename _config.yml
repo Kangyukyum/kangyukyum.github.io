@@ -39,9 +39,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/Kangyukyum # change to your GitHub homepage
-    # Uncomment below to add more social links
-    - https://www.linkedin.com/in/yu-kyum-kang-760a233a4
+    # Link
     - https://scholar.google.com/citations?hl=ko&user=bCh7rhcAAAAJ
+    - https://www.linkedin.com/in/yu-kyum-kang-760a233a4
 
 # Site Verification Settings
 webmaster_verifications:

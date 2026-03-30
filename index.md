@@ -77,3 +77,8 @@ My research sits at the intersection of reinforcement learning, brain disease di
   * Pytorch
   * Tensorflow
   * Unity
+
+<div style="display: flex; gap: 10px; font-size: 24px;">
+  <a href="https://scholar.google.com/citations?hl=ko&user=bCh7rhcAAAAJ" target="_blank"><i class="fas fa-graduation-cap"></i></a>
+  <a href="https://www.linkedin.com/in/yu-kyum-kang-760a233a4" target="_blank"><i class="fab fa-linkedin"></i></a>
+</div>
