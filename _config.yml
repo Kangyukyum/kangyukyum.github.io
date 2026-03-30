@@ -16,37 +16,36 @@ timezone: Asia/Seoul
 
 title: Kang Yu-kyum # the main title
 
-tagline: AI Researcher # it will display as the subtitle
+tagline: Ph.D. Candidate in AI @ Korea University # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kangyukyum.github.io"
+url: "https://Kangyukyum.github.io"
 
 github:
-  username: Kangyukuym # change to your GitHub username
+  username: Kangyukyum # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+# twitter:
+#   username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Kang Yu-kyum
   email: youg110@korea.ac.kr # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/Kangyukyum # change to your GitHub homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - www.linkedin.com/in/yu-kyum-kang-760a233a4
+    - https://scholar.google.com/citations?hl=ko&user=bCh7rhcAAAAJ
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: #
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +58,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-EF8FHEF1Z2
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -88,7 +87,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
