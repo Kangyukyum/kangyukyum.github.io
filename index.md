@@ -5,7 +5,7 @@ permalink: /
 
 # **About Me**
 
-👋 Hi! I am a **Ph.D. Student** in the Department of Artificial Intelligence at **Korea University**. My academic journey is driven by a passion for developing advanced AI systems that bridge the gap between computational models and real-world medical or robotic applications. Currently, I am a member of the **[Medical Artificial Intelligence (MAI) Lab](http://mailab.korea.ac.kr/)**, advised by **Prof. [Tae-Eui Kam](https://scholar.google.com/citations?user=y7B2OsUAAAAJ&hl=en)**.
+👋 Hi! I am a **Ph.D. Student** in the Department of Artificial Intelligence at **Korea University**. My academic journey is driven by a passion for developing advanced AI systems that bridge the gap between computational models and real-world medical or robotic applications. Currently, I am a member of the **[Medical Artificial Intelligence (MAI) Lab](https://mailab.korea.ac.kr/)**, advised by **Prof. [Tae-Eui Kam](https://scholar.google.com/citations?user=y7B2OsUAAAAJ&hl=en)**.
 
 My recent research focuses on how **Reinforcement Learning (RL)** and **Generative Models** can be utilized to optimize brain network analysis and autonomous diagnostic systems. Furthermore, I am particularly interested in enhancing **Medical Diagnosis** through Functional Connectivity (FC) and Graph Neural Networks (GNNs). Recently, I have also expanded my research interests to include **Vision-Language-Action (VLA) Models**, aiming to bridge multimodal perception with generalized actionable intelligence across diverse environments.
 
